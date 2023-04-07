@@ -43,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![ex1 thanika (1)_page-0001](https://user-images.githubusercontent.com/119557910/230593237-ecf20935-fcbc-46a3-964d-621f013d39c9.jpg)
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
